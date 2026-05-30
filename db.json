@@ -1,0 +1,65 @@
+{
+  "activeAccountList": [
+    {
+      "id": 1,
+      "accountName": "Savings Account",
+      "accountNumber": "123456789",
+      "amount": 2500.75,
+      "currency": "USD",
+      "defaultYN": "N"
+    },
+    {
+      "id": 2,
+      "accountName": "Salary Account",
+      "accountNumber": "111222333",
+      "amount": 1800.00,
+      "currency": "USD",
+      "defaultYN": "N"
+    },
+     {
+      "id": 3,
+      "accountName": "Payday Account",
+      "accountNumber": "111222334",
+      "amount": 1800.00,
+      "currency": "USD",
+      "defaultYN": "Y"
+    },
+     {
+      "id": 4,
+      "accountName": "Premier Account",
+      "accountNumber": "111222335",
+      "amount": 1800.00,
+      "currency": "USD",
+      "defaultYN": "N"
+    }
+  ],
+
+  "hiddenAccountList": [
+    {
+      "id": 5,
+      "accountName": "Business Account",
+      "accountNumber": "987654321",
+      "amount": 5400.00,
+      "currency": "KHR",
+      "defaultYN": "N"
+    },
+    {
+      "id": 6,
+      "accountName": "Preffered Account",
+      "accountNumber": "555666777",
+      "amount": 120.00,
+      "currency": "USD",
+      "defaultYN": "N"
+    }
+  ],
+
+  "userProfile": {
+    "userName": "John Doe",
+    "userID": "USR001",
+    "gender": "Male",
+    "nidNumber": "NID12345678",
+    "expiryDate": "2030-12-31",
+    "email": "john.doe@gmail.com",
+    "phone": "+85512345678"
+  }
+}
