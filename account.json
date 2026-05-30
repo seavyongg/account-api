@@ -51,15 +51,5 @@
       "currency": "USD",
       "defaultYN": "N"
     }
-  ],
-
-  "userProfile": {
-    "userName": "John Doe",
-    "userID": "USR001",
-    "gender": "Male",
-    "nidNumber": "NID12345678",
-    "expiryDate": "2030-12-31",
-    "email": "john.doe@gmail.com",
-    "phone": "+85512345678"
-  }
+  ]
 }
